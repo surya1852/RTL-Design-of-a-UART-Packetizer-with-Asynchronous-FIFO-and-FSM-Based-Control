@@ -10,8 +10,8 @@ The project follows a modular RTL design approach, where each functional block i
 
 ## ✨ Features
 
-- RTL design implemented in Verilog HDL
-- 16-depth Asynchronous FIFO for clock domain crossing
+- RTL design implemented in **Verilog HDL**
+- 16-depth **Asynchronous FIFO** for clock domain crossing
 - FSM-based controller for packet management
 - UART transmitter for serial communication
 - Configurable baud rate generation
@@ -102,5 +102,6 @@ UART_Packetizer/
 ---
 
 ## 👨‍💻 Author
-Surya Teja
+
+**Surya Teja**
 Interested in RTL Design, Digital Design Verification, FPGA Design, and VLSI.
